@@ -1,6 +1,6 @@
-⚙️ GregTech Reborn (Minecraft 1.21+)
+⚙️ GreatTech Reborn (Minecraft 1.21+)
 
-GregTech Reborn is a completely original industrial tech mod for Minecraft Neoforge (1.21+).
+GreatTech Reborn is a completely original industrial tech mod for Minecraft Neoforge (1.21+).
 It is inspired by the gameplay of GregTech 5 Unofficial (GT5u) and GregTech CEu (GTCEu), but:
 
 No code from GT5 or GTCEu is used.
